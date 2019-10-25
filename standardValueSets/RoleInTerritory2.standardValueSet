@@ -11,4 +11,9 @@
         <default>false</default>
         <label>B</label>
     </standardValue>
+    <standardValue>
+        <fullName>C</fullName>
+        <default>false</default>
+        <label>C</label>
+    </standardValue>
 </StandardValueSet>
